@@ -339,6 +339,26 @@ hr {
 .story-card3-rep{
 display: none;
 }
+.last-btn{
+    text-align: center;
+    width: 12.3125rem;
+    height: 50px;
+    border: none;
+    color: white;
+    border-radius: 12px;
+    padding: 10px;
+    font-size: 1.25rem;
+    font-weight: bold;
+    background-color: black;
+    margin-bottom: 2rem;
+    font-family: Quicksand,sans-serif;
+    margin: 60px auto;
+    justify-content: center;
+}
+
+
+.footer
+
 @media screen and (max-width:576px){
     body{
         max-width: 100%;
