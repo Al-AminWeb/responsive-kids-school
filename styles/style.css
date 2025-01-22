@@ -378,6 +378,7 @@ display: none;
         text-align: center;
         margin: 0 auto;
     }
+
     .hero-image{
         width: 100%;
     }
@@ -393,6 +394,9 @@ display: none;
     }
     .arrow-container{
         display: none;
+    }
+    .stories-title{
+        margin: 30px;
     }
     .stories-container{
         max-width: 100%;
