@@ -336,8 +336,8 @@ hr {
     padding: 0 40px;
     margin-top: 20px;
 }
-.story-card-3{
-
+.story-card3-rep{
+display: none;
 }
 @media screen and (max-width:576px){
     body{
@@ -387,7 +387,7 @@ hr {
     }
     .education-level-title{
         color: rgb(0, 0, 0);
-        font-family: Quicksand;
+        font-family: Quicksand,sans-serif ;
         font-size: 1.8rem;
         font-weight: 700;
     }
@@ -402,7 +402,7 @@ hr {
     .story-card1{
         display: none;
     }
-    .story-card-3{
+    .story-card3-rep{
         display: block;
     }
 
